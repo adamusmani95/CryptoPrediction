@@ -2,7 +2,7 @@
 
 How to execute the model:
 
-I execute the code in Google Colaboratory. Here is the link.
+I executed the code in Google Colaboratory. Here is the link.
 
 https://colab.research.google.com/drive/1BEizpNIvXJTxRa5y4xPB3rYbHiW4fqo#scrollTo=2Tcg968ECOjm
 
