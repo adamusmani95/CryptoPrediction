@@ -1,5 +1,7 @@
 # CryptoPrediction
 
+Group Project in Big Data Technology MSc at Hong Kong University of Science & Technology
+
 The code and models are placed in Google drive. Here is the link.
 
 https://drive.google.com/drive/folders/1YBdZMM8eSJEhQJleXthnfx6NR8UZCyGp?usp=sharing
