@@ -11,3 +11,5 @@ change the folder variable before executing. Folder variable should point to the
 model files and the testing dataset.
 
 After that click run all and enter ‘3’ for performing testing action only.
+
+The two PPT files contain course information on the project 
